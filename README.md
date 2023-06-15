@@ -1,2 +1,2 @@
-# prof_prap2
-Proyecto final de práctica profesionalizante 2
+# profin_proimag
+Proyecto final de procesamiento de imágenes
