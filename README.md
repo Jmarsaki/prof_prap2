@@ -1,2 +1,4 @@
 # profin_proimag
-Proyecto final de procesamiento de imágenes
+Proyecto final de procesamiento de imágenes de Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial.
+De las 750 especies de arañas que existen en Argentina, hay tres que representan interés sanitario debido a la peligrosidad de su veneno. Se trata de las especies loxosceles (conocida como araña de los cuadros o de los rincones o violinista), la latrodectus (viuda negra) y la phoneutria (araña del banano o armadeira), de incidencia menos frecuente en el territorio nacional. Tal como lo han advertido los especialistas, cada variedad de estos arácnidos presenta diferentes características respecto de los sitios donde habitan y sus picaduras demuestran señales disímiles, con afectaciones diferentes sobre el organismo.
+Debido a estos hechos, es util y necesaria la existencia de una aplicación, que instalada en un dispositivo movil con cámara, pueda identificar y reconocer al menos estos tres especímenes, sin dejar de reconocer otros también peligrosos.
